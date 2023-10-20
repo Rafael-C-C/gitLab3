@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hola, Soy Juan Cime
+=======
+Hola soy del equipo4
+>>>>>>> 585a768b3862ded3fc89a8ce8c30f2a61423a88c
